@@ -10,6 +10,7 @@
  */
 package org.eclipse.jgit.api;
 
+
 import static org.eclipse.jgit.treewalk.TreeWalk.OperationType.CHECKOUT_OP;
 
 import java.io.IOException;
